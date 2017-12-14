@@ -1,0 +1,38 @@
+body {
+	background-color: lightblue;
+	margin: 0 auto;
+}
+
+h1 {
+	color: DarkRed;
+	background-image: url("file:///G:/Personal%20Web/banner-1300x327.jpg");
+	padding: 125px;
+	text-align: center;
+	font-size: 56px;
+	font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+	color: DarkRed;
+	font-family: 'Oswald', sans-serif;
+}
+
+nav {
+	text-align: center;
+}
+
+.column1 { 
+	padding:10px;
+	background-color:#CCCCCC;
+	width:45%;
+	float:left; 
+	margin-top:10px;
+}
+
+.column2 {
+	padding:10px;
+	background-color:#CCCCCC;
+	width:45%;
+	float:right; 
+	margin-top:10px;
+}
